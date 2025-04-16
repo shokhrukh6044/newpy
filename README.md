@@ -1,0 +1,2 @@
+# newpy
+python darslari
